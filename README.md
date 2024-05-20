@@ -7,3 +7,5 @@ determinados a transformar ideias em soluções tangíveis, a GeneSys nasceu da 
 sociedade. Desde o seu início, a empresa tem se dedicado a desenvolver produtos e serviços que atendam às necessidades do mercado, utilizando
 tecnologia de ponta e abordagens criativas. Com uma equipe multidisciplinar e comprometida, a GeneSys está pronta para enfrentar os desafios do
 mundo empresarial e deixar sua marca no cenário empreendedor.
+
+https://includeluisferreira.github.io/GeneSys-site
